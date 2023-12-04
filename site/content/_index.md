@@ -15,6 +15,6 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our values
-    text: Our Values: Uncompromising Quality, Authenticity, and Sonic Passion. We're driven by a commitment to deliver top-tier sound experiences. At the heart of our mission is a dedication to excellence, innovation, and a shared love for the transformative power of sound. Join us on a journey where values shape exceptional audio encounters.
+    text: Uncompromising Quality, Authenticity, and Sonic Passion. We're driven by a commitment to deliver top-tier sound experiences. At the heart of our mission is a dedication to excellence, innovation, and a shared love for the transformative power of sound. Join us on a journey where values shape exceptional audio encounters.
 ---
 
