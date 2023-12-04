@@ -1,6 +1,6 @@
 ---
 title: "Sound Systems: premium audio"
-subtitle: Groove Upgraded, Explore the Magic of Sound Systems!
+subtitle: Groove Upgraded, Explore the Magic of Sound Systems
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Us?
