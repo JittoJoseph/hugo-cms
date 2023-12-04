@@ -1,7 +1,7 @@
 ---
 title: "Sound Systems: premium audio"
 subtitle: Groove Upgraded, Explore the Magic of Sound Systems
-image: /img/home-sound.jpg
+image: /img/sound.jpg
 blurb:
     heading: Why Us?
     text: "Because we're not just about sound; we're about your unique sonic story. Our commitment is to elevate your audio experience with top-notch quality, expert insights, and a passion for perfecting your sound journey. where your music deserves the best."
